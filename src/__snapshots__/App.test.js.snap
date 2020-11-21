@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`To Do Testing snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="App-header"
+    >
+      <div
+        class="App"
+      >
+        <div
+          class="App-header"
+        >
+          <div>
+            <h1
+              class="has-text-black is-size-1"
+            >
+              To Do Test
+            </h1>
+            <div
+              class="input-container"
+            >
+              <input
+                aria-label="textbox"
+                class="input"
+                maxlength="20"
+                placeholder="Feed the 🐱"
+                type="text"
+                value=""
+              />
+              <button
+                aria-label="submit"
+                class="button is-link"
+                id="submit"
+              >
+                 Submit
+              </button>
+            </div>
+            <nav
+              class="panel"
+            >
+              <p
+                class="panel-heading"
+              >
+                Keeping in Track
+              </p>
+              <div
+                class="checklist"
+              >
+                <div
+                  class="panel-block"
+                >
+                  <label
+                    class="checkbox"
+                    for="item-0"
+                  >
+                    <input
+                      aria-label="checkbox"
+                      id="item-0"
+                      type="checkbox"
+                    />
+                    React
+                  </label>
+                </div>
+              </div>
+              <div
+                class="panel-block total"
+              >
+                <span
+                  class="is-outlined is-fullwidth"
+                >
+                   Completed: 
+                </span>
+                <span
+                  data-testid="total"
+                  id="total"
+                >
+                  0
+                </span>
+                <span>
+                  /1
+                </span>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
