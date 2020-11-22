@@ -4,6 +4,7 @@ Playing around with:
 * React
 * Redux 
 * React Testing Library
+* Jest 
 * Testing. To run test, App.test.js. Npm test or Yarn run test
 
 [💻 github pages](https://ngjeannette.github.io/to-do-list-redux-react-testing-library/)
