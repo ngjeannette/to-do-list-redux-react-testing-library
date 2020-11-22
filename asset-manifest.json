@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/to-do-list-redux-react-testing-library/static/css/main.5cea2376.chunk.css",
+    "main.js": "/to-do-list-redux-react-testing-library/static/js/main.c669ec1f.chunk.js",
+    "main.js.map": "/to-do-list-redux-react-testing-library/static/js/main.c669ec1f.chunk.js.map",
+    "runtime-main.js": "/to-do-list-redux-react-testing-library/static/js/runtime-main.85a150c2.js",
+    "runtime-main.js.map": "/to-do-list-redux-react-testing-library/static/js/runtime-main.85a150c2.js.map",
+    "static/js/2.4cf338f2.chunk.js": "/to-do-list-redux-react-testing-library/static/js/2.4cf338f2.chunk.js",
+    "static/js/2.4cf338f2.chunk.js.map": "/to-do-list-redux-react-testing-library/static/js/2.4cf338f2.chunk.js.map",
+    "index.html": "/to-do-list-redux-react-testing-library/index.html",
+    "static/css/main.5cea2376.chunk.css.map": "/to-do-list-redux-react-testing-library/static/css/main.5cea2376.chunk.css.map",
+    "static/js/2.4cf338f2.chunk.js.LICENSE.txt": "/to-do-list-redux-react-testing-library/static/js/2.4cf338f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a150c2.js",
+    "static/js/2.4cf338f2.chunk.js",
+    "static/css/main.5cea2376.chunk.css",
+    "static/js/main.c669ec1f.chunk.js"
+  ]
+}
